@@ -1,0 +1,19 @@
+
+.chat_relative_wrap {
+    position:relative
+
+}
+.chat_status {
+    position: absolute;
+    /*left: -22px;*/
+    top: 50%;
+    margin-top: -8px;
+    color: #999;
+    animation:rous .5s infinite linear
+}
+.chat_status.left {
+    left: -22px;
+}
+.chat_status.right {
+    right: -22px;
+}
