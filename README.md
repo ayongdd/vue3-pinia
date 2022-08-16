@@ -1,5 +1,5 @@
 # vue3-template
-vue3 + pinia 开局模板
+vue3 + ts + pinia 开局模板
 update `<script setup>`  About.vue TodoList.vue
 
 ## Project setup
